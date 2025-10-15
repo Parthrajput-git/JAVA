@@ -1,4 +1,4 @@
-// Fact. Oparation
+// Fact. Oparation.
 import java.util.*;
 public class Fact{
     public static int fact(int n){
