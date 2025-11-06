@@ -7,7 +7,7 @@
         //     System.out.println("The available for voting  :");
         // }
         // else{
-            System.out.println("Not available for voting  :");
-        }
-    }
-}
+//             System.out.println("Not available for voting  :");
+//         }
+//     }
+// }
