@@ -6,7 +6,7 @@ public class Fact{
         int fact=1;
         int n=sc.nextInt();
         for(int i=1;i<=n;i++){
-            fac*=i;
+            fact*=i;
         }
         System.out.println("Your factorial"+f);
     }
