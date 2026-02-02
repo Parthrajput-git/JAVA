@@ -1,4 +1,4 @@
-import java.util. *;
+import java.util. *;// This is java universal Package
 public class Abstract{
     public static void main(String args[]){
     Dog sc=new Dog();
