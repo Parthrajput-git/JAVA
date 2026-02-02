@@ -1,4 +1,4 @@
-import java.util. *;// This is java universal Package
+import java.util. *;// This is java universal Package and All methodand function hub.
 public class Abstract{
     public static void main(String args[]){
     Dog sc=new Dog();
